@@ -1,7 +1,7 @@
  my-repo-from-remote
  ==
  
-this repository is created from github
+This repository is created from SourceTree
 --
 *Practicing how to use GitHub*
 - Create a repository
